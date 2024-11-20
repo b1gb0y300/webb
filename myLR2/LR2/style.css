@@ -1,0 +1,156 @@
+@font-face {
+    font-family: "ALS Sector Regular Regular";
+    src: url("https://db.onlinewebfonts.com/t/595030bb520f1e2ab2fb4e8d7c5f30a5.eot");
+    src: url("https://db.onlinewebfonts.com/t/595030bb520f1e2ab2fb4e8d7c5f30a5.eot?#iefix") format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/595030bb520f1e2ab2fb4e8d7c5f30a5.woff2") format("woff2"),
+    url("https://db.onlinewebfonts.com/t/595030bb520f1e2ab2fb4e8d7c5f30a5.woff") format("woff"),
+    url("https://db.onlinewebfonts.com/t/595030bb520f1e2ab2fb4e8d7c5f30a5.ttf") format("truetype"),
+    url("https://db.onlinewebfonts.com/t/595030bb520f1e2ab2fb4e8d7c5f30a5.svg#ALS Sector Regular Regular") format("svg");
+}
+
+.up_nav {
+    font-size: .8125rem;
+    letter-spacing: -.2px;
+    line-height: 1.6;
+    color: rgba(0, 0, 0, .4);
+    padding-left: .5rem;
+    margin-top: 0px;
+}
+
+.container {
+    max-width: 1210px !important;
+}
+
+p {
+    font-family: "ALS Sector Regular Regular";
+}
+
+.ps-small {
+    padding-right: 1.5px;
+}
+
+.logo_main {
+    width: 284px;
+    height: auto;
+    margin: 0 0 0 24px;
+}
+
+.logo_row {
+    margin: -38px 0 0 -8px;
+}
+
+.nav_bar p {
+    display: block;
+    font-size: 13px;
+    font-family: "ALS Sector Regular Regular";
+    font-weight: bold;
+    line-height: 1.3;
+    text-transform: uppercase;
+    letter-spacing: 1.1px;
+    padding: .45rem 0 0;
+    text-decoration: none;
+    border-bottom: 4px solid transparent;
+    cursor: pointer;
+}
+
+.col_icons {
+    margin-top: -56px;
+}
+
+.col_icons p {
+    display: block;
+    font-size: 13px;
+    font-family: "ALS Sector Regular Regular";
+    font-weight: bold;
+    line-height: 1.3;
+    text-transform: uppercase;
+    letter-spacing: 1.1px;
+    padding: .45rem 0 0;
+    text-decoration: none;
+    border-bottom: 4px solid transparent;
+    cursor: pointer;
+}
+
+.nav_index p {
+    display: inline-block;
+    color: rgba(0, 0, 0, .4);
+    text-decoration: none;
+    border-bottom: 1px solid hsla(0, 0%, 83%, .5);
+    font-size: .8125rem;
+    font-family: "ALS Sector Regular Regular";
+}
+
+.nav_index {
+    margin: 0 0 0;
+}
+
+.info_bar {
+    margin: 40px 0 0 116px;
+}
+
+.info_bar h2 {
+    display: block;
+    border: none;
+    font-family: "ALS Sector Regular Regular";
+    font-weight: bold;
+    font-size: 1.75rem;
+    line-height: 2.25rem;
+    margin-bottom: .5rem;
+}
+
+.info_bar p {
+    font-size: 1.3125rem;
+    font-family: "ALS Sector Regular Regular";
+    line-height: 1.25rem;
+}
+
+.underline {
+    text-decoration: underline;
+    text-decoration-color: #4a50e1;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+}
+
+.consult h3 {
+    font-family: "ALS Sector Regular Regular";
+    font-size: .9375rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1.56px;
+    line-height: 1.375rem;
+    text-align: center;
+    margin-bottom: .5rem;
+}
+
+.consult p {
+    font-family: "ALS Sector Regular Regular";
+    font-size: .9375rem;
+    color: rgba(0, 0, 0, .4);
+    line-height: 1.625rem;
+}
+
+.input-group {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+input.form-control {
+    width: 100%;
+    max-width: 500px;
+}
+
+select.form-control {
+    width: 100%;
+    max-width: 500px;
+}
+
+button {
+    width: 260px !important;
+    height: 40px;
+    padding: 5px 10px;
+    font-size: 0.875rem;
+}
+
+.row > button {
+    margin: 5px 0;
+}
